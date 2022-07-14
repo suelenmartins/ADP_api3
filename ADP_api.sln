@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_api", "ADP_api\ADP_api.csproj", "{D229D7BA-A8C9-4C63-9780-1FED4B354C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D229D7BA-A8C9-4C63-9780-1FED4B354C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D229D7BA-A8C9-4C63-9780-1FED4B354C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D229D7BA-A8C9-4C63-9780-1FED4B354C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D229D7BA-A8C9-4C63-9780-1FED4B354C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBA5F2A-8053-4A90-B50D-7F3B5E9B12E9}
+	EndGlobalSection
+EndGlobal
